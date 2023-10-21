@@ -11,21 +11,21 @@
             </strong>
         </p>
         <ul>
-            <li>🌱 <b>I am currently learning on my own</b>: I have just studied Web Application Development.</li>
-            <li>🎯 <b>I am currently focusing on</b>: ⭐️ comming soon-> 🤩.</li>
-            <li>🎈 <b>I have a portfolio made with great love</b>: ⭐️ <a href="https://imjoselu.github.io/PortfolioWebDeveloper/">my web portfolio</a> 🧨.</li>
-            <li>🤔 <b>I am currently open for</b>: a new job opportunity, <a href="https://www.canva.com/design/DAFriXOwd90/bL780IttZ4nGzyfpSjJxoA/view?utm_content=DAFriXOwd90&utm_campaign=designshare&utm_medium= link&utm_source=publishsharelink">LINK TO MY CURRICULUM</a >.</li>
-            <li>💬 <b>Ask me about anything</b>: jltortolacer@gmail.com.</li>
-            <li>📫 <b>How to contact me</b>: Follow me from the links above 👆, in addition to following me here.</li>
-            <li>😄 <b>Fun fact</b>: I love cars (🚗), coding (💻), and traveling (🌍).</li>
+            <li>🌱 <b>Actualmente estoy aprendiendo por mi cuenta C++ para desarollar un motor grafico con OpenGL</b></li>
+            <li>🎯 <b>Actualmente me estoy centrando en la programación orientada a objetos</b>: ⭐️.</li>
+            <li>🎈 <b>Tengo un portafolio hecho con mucho cariño</b>: ⭐️ <a href="   ">mi portafolio</a> 🧨.</li>
+            <li>🤔 <b>Actualmente estoy abierta para el estudio en educacion superior para parender mas de programacion y abrirme puertas para mi futuro.</b></li>
+            <li>💬 <b>Pregúntame sobre cualquier cosa juandavidrojasvillegas@gmail.com.</b></li>
+            <li>📫 <b>Cómo contactar conmigo con mi cooreo personal "juandavidrojasvillegas@gmail.com" o en </b><a href="https://www.linkedin.com/in/juan-david-rojas-villegas-a30007284">Linkedin</a></li>
+            <li>😄 <b>Dato curioso me encanta la programacion, las manualidades y el arte del origami.</b></li>
         </ul>
     </div>
    
 ### Tengo experiencia en las ramas Frontend y Backend con los siguientes lenguajes : 
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=blue)
+![](https://img.shields.io/badge/Django-38d667?style=for-the-badge&logo=Django&logoColor=black)
