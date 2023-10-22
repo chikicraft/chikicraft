@@ -13,7 +13,7 @@
         <ul>
             <li>🌱 <b>Actualmente estoy aprendiendo por mi cuenta C++ para desarollar un motor grafico con OpenGL</b></li>
             <li>🎯 <b>Actualmente me estoy centrando en la programación orientada a objetos</b>: ⭐️.</li>
-            <li>🎈 <b>Tengo un portafolio hecho con mucho cariño</b>: ⭐️ <a href="   ">mi portafolio</a> 🧨.</li>
+            <li>🎈 <b>Tengo un portafolio hecho con mucho cariño</b>: ⭐️ <a href="https://chikicraft.github.io/Portafolio/">mi portafolio</a> 🧨.</li>
             <li>🤔 <b>Actualmente estoy abierta para el estudio en educacion superior para parender mas de programacion y abrirme puertas para mi futuro.</b></li>
             <li>💬 <b>Pregúntame sobre cualquier cosa juandavidrojasvillegas@gmail.com.</b></li>
             <li>📫 <b>Cómo contactar conmigo con mi cooreo personal "juandavidrojasvillegas@gmail.com" o en </b><a href="https://www.linkedin.com/in/juan-david-rojas-villegas-a30007284">Linkedin</a></li>
